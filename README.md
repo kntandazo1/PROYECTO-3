@@ -75,7 +75,8 @@ Colocamos el integrado LM386 con la llanura con direccion hacia la izquiera sobr
 Lo siguiente sera hacer un puente de la pata dos y cuatro del integrado LM386
 Ahora la pata positiva del condensador a la pata 5 del integrado y la pata negativa del condensador hacia un punto  
 imtegramos el poteciometro al protoboard 
-Conectamos un cable desde la pata 2 del integrado hasta la pata izquierda del potenciómetro desde conectamos otro cable desde la pata 3 del integrado hasta la pata central del potenciometro 
+Conectamos un cable desde la pata 2 del integrado hasta la pata izquierda del potenciómetro desde conectamos otro cable desde la pata 3 del integrado hasta la pata 
+central del potenciometro 
 La pata derecha del potenciómetro y la pata 4 del integrado serán la entrada de señal de audio conectamos el plug cable 
 Hacemos un puente desde la pata 2 del integrado hasta el lado negativo de la protoboard
 Otro desde la pata 6 hasta el lado positivo de la protoboard 
@@ -84,18 +85,18 @@ Ahora solo conectamos la batería
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-4. Video
+4. Video:
 
-
+https://youtu.be/IfoVLDZP3z8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-5.Conclusion 
+5.Conclusión: 
 
 Con la realización del presente circuito podemos comprobar de una manera práctica la función del potenciómetro el cual dentro del proyecto es el encargado de permitir la variación del sonido y del LM386  que es un circuito integrado que consiste en un amplificador que requiere bajo voltaje, tanto en la entrada de audio como en la alimentación. 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
-6.Bibliografia 
+6.Bibliografía:
  
 Muy Facil De Hacer. (2014, 22 septiembre). Mini Amplificador De Audio Casero (muy fácil de hacer). YouTube. https://www.youtube.com/watch?v=8U0o1pAvK20
 
